@@ -1,0 +1,1 @@
+ssh -i "team7.pem" ubuntu@ec2-52-66-211-111.ap-south-1.compute.amazonaws.com
