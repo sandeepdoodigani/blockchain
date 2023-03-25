@@ -1,1 +1,1 @@
-ssh -i "team15.pem" ubuntu@ec2-3-111-169-72.ap-south-1.compute.amazonaws.com
+ssh -i "team15.pem" ubuntu@ec2-15-206-153-175.ap-south-1.compute.amazonaws.com
